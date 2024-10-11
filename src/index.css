@@ -1,0 +1,11 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgb(226, 185, 185) , rgb(119, 228, 119), rgb(70, 48, 70));
+    background-size: 300% 300%;
+}
